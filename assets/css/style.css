@@ -1,0 +1,44 @@
+header {
+    padding: 2.5rem 2.5rem;
+    background:#5555;
+    display: flex;
+    justify-content: space-between;
+}
+header a {
+    text-decoration: none;
+    color:azure;
+}
+header ul {
+    display: flex;
+    justify-content: space-between;
+}
+header ul li {
+    margin-right: 0.31rem;
+}
+table {
+    margin: 1rem 1rem;
+    border: 1px solid #0000;
+}
+tr {
+    display: flex;
+    justify-content: space-between;
+}
+tr th {
+    margin-left: 1rem;
+    padding: 2rem 2rem;
+    font-weight: bold;
+}
+tr td {
+    margin-left: 1rem;
+    padding: 0.31rem 0.31rem;
+}
+.cor-nao {
+    background: #5555;
+    color: white;
+}
+form {
+    margin: 1rem 2.5rem;
+}
+form p {
+    margin-top: 1rem;
+}
